@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "elELjqCxkf45PFpOO0XAhWd8ztrOCJwspsOpdHdGLaVVkWUNnFmLTH+WmIBkD3Zh+0BLE/TngdBlxoRuJBAEPw==",
+  "dgSpecHash": "xykNw1W/z2h97DA/sPv6XXX8GPVf+SKXlZk0uY9gxwUupuuvn7mvwgeRnR2Y2+cf2GMm5J9IEQEpRmdA6gjImQ==",
   "success": true,
   "projectFilePath": "D:\\joshy\\CodeStuff\\Vs Code\\C#\\Word Count\\Word Count.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\joshy\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.9\\microsoft.netcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\joshy\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\joshy\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x64.6.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

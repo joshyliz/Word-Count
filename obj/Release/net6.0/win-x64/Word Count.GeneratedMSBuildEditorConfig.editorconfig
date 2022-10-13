@@ -10,4 +10,4 @@ build_property.EnableSingleFileAnalyzer =
 build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Word_Count
-build_property.ProjectDir = d:\joshy\CodeStuff\Vs Code\C#\Word Count\
+build_property.ProjectDir = D:\joshy\CodeStuff\Vs Code\C#\Word Count\

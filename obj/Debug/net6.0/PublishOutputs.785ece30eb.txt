@@ -1,0 +1,5 @@
+D:\joshy\CodeStuff\Vs Code\C#\Word Count\bin\Debug\net6.0\publish\Word Count.exe
+D:\joshy\CodeStuff\Vs Code\C#\Word Count\bin\Debug\net6.0\publish\Word Count.dll
+D:\joshy\CodeStuff\Vs Code\C#\Word Count\bin\Debug\net6.0\publish\Word Count.deps.json
+D:\joshy\CodeStuff\Vs Code\C#\Word Count\bin\Debug\net6.0\publish\Word Count.runtimeconfig.json
+D:\joshy\CodeStuff\Vs Code\C#\Word Count\bin\Debug\net6.0\publish\Word Count.pdb
